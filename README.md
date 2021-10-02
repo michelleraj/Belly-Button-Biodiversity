@@ -1,0 +1,2 @@
+# Belly-Button-Biodiversity
+Data sampled from the navels of people from across the country to identify the bacterial species that colonise the belly button, each persons identity is recorded using ID number that can be filtered from the below filter bar. The analysis is displayed in dashboard HTML, JavaScript and Plotly. The Bar chart and the bubble chart shows top 10 bacterial cutlture in each person with x values as sample values and y as the otu_ids. The Gauge chart shows weekly washing frequency's value for each individual ID .
